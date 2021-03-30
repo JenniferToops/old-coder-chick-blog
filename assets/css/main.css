@@ -3574,7 +3574,7 @@ input, select, textarea {
 
 				.spotlights .spotlight .image img {
 					object-fit: cover;
-					min-height: 100%;
+					min-width: 100%;
 				}
 
 			.spotlights .spotlight .content {
