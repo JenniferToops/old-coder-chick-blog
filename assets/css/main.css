@@ -91,6 +91,11 @@ input, select, textarea {
 	margin: auto 20px;
 }
 
+.special #email-me {
+	padding: auto .5rem;
+	list-style: none;
+}
+
 
 /* Basic */
 
