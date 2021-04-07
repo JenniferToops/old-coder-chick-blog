@@ -78,14 +78,6 @@ input, select, textarea {
 	font-style: italic;
 }
 
-.spotlight .blog-pics {
-	display: block;
-}
-
-.blog-pics figcaption {
-	/* white-space: "\A "; */
-	font-style:italic;
-}
 
 .blog-post {
 	margin: auto 20px;
@@ -94,6 +86,17 @@ input, select, textarea {
 .special #email-me {
 	padding: auto .5rem;
 	list-style: none;
+}
+
+
+#caption {
+	display: block !important;
+	font-style:italic;
+	text-align: center;
+}
+
+.article-background {
+	background-color: white;
 }
 
 
