@@ -4,4 +4,4 @@
 
 
 
-<img src="https://imgur.com/WFng46g.png>
+<img src="https://imgur.com/WFng46g.png" width="400px">
